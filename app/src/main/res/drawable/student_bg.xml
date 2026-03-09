@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Boy Silhouette -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M30,40 Q35,30 40,40 L45,60 L35,60 Z M37.5,25 A5,5 0 1,1 37.5,35 A5,5 0 1,1 37.5,25" />
+    <!-- Girl Silhouette -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M60,40 Q65,30 70,40 L75,60 L65,60 Z M67.5,25 A5,5 0 1,1 67.5,35 A5,5 0 1,1 67.5,25" />
+</vector>
